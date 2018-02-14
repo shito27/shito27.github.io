@@ -1,0 +1,26 @@
+h1	{
+	color: #0066cc;
+	margin-left: 20px;
+}
+
+h2	{
+	color: #e69900;
+	margin-left: 20px;
+}
+
+#nav	{ 
+	border: 5px dashed #cc0000;
+	margin: 10px 5px 5px 20px;
+	padding: 10px 10px 10px 10px;
+}
+
+#nav a	{
+	text-decoration:underline;
+	color: #3333cc;
+}
+
+.recommended{
+	font-family:"Times New Roman";
+	font-size: 14pt;
+	margin-left: 20px;
+}
